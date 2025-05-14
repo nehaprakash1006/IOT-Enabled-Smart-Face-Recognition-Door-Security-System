@@ -39,7 +39,6 @@ A smart IoT-based door security system that uses Python, OpenCV, Arduino, and Bl
 
 Install dependencies:
 
-```bash
 pip install opencv-python face_recognition yagmail requests
 
 ## 🛠️ Setup & Usage
