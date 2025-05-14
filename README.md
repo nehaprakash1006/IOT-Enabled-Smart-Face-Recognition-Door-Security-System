@@ -2,7 +2,7 @@
 
 A smart IoT-based door security system that uses Python, OpenCV, Arduino, and Blynk to detect motion, recognize faces, and control hardware components like LEDs and buzzers. Real-time alerts are sent via email and Blynk for unknown visitors.
 
-![WhatsApp Image 2025-05-14 at 23 19 17_8625dce0](https://github.com/user-attachments/assets/b2f446f8-bad6-4cf6-abf7-fc2c23cac28b)
+![WhatsApp Image 2025-05-14 at 23 19 17_6af72abc](https://github.com/user-attachments/assets/23e4b22c-a1f2-47d1-9deb-6a2777a73760)
 
 ---
 
