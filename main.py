@@ -3,10 +3,10 @@ from datetime import datetime
 
 # === CONFIG ===
 ARDUINO_PORT = 'COM8'  # Update to your port
-BLYNK_TOKEN = '9ISu71yNYZlgVRILgfPnPl1ILoCxssSl'
-OWNER_EMAIL = '22bcscs053@student.rru.ac.in'
-YOUR_EMAIL = 'testprojecx@gmail.com'
-YOUR_APP_PASSWORD = 'qhrxhonembbmryls'
+BLYNK_TOKEN = '' #enter blynk token
+OWNER_EMAIL = '' #enter owner email
+YOUR_EMAIL = '' #enter email from which mail will be sent to owner
+YOUR_APP_PASSWORD = '' #generate app password in google account settings
 
 # === INIT ===
 yag = yagmail.SMTP(YOUR_EMAIL, YOUR_APP_PASSWORD)
